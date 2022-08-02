@@ -4,7 +4,7 @@ Hi, my name is Vitor Ferreira.
 
 On this Github I present projects developed from public data, with resolutions of business problems using Data Science concepts and tools. 
 
-# About me 
+# About me 🚀
 
 I have 14 years of professional experience in business management and commercial management. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
 
@@ -12,7 +12,7 @@ Currently, I am the owner of Metapro, a Consulting and Trade Representative comp
 
 My professional goal is to make a career change to the Data Science area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
 
-# Data Science Projects
+# Data Science Projects 📈
 
 ### Insiders Loyalty Program (under development):
 To deploy a new loyalty program called Insiders, an unsupervised machine learning model of **Clustering** was developed, grouping the customer base according to their similarities. 
