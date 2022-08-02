@@ -1,4 +1,43 @@
-### Hi there 👋
+# Hi there 👋
+
+Hi, my name is Vitor Ferreira.
+
+On this Github I present projects developed from public data, with resolutions of business problems using Data Science concepts and tools. 
+
+# About me 
+
+I have 14 years of professional experience in business management and commercial management. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
+
+Currently, I am the owner of Metapro, a Consulting and Trade Representative company. In parallel, I develop personal projects as a Data Scientist, to gain experience in solving business problems and mastery of data analysis tools.
+
+My professional goal is to make a career change to the Data Science area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
+
+# Data Science Projects
+
+### Insiders Loyalty Program (under development):
+To deploy a new loyalty program called Insiders, an unsupervised machine learning model of **Clustering** was developed, grouping the customer base according to their similarities. 
+
+[Read More](https://github.com/vitorhmf/loyalty-program)
+
+### Cross-Sell Campaign
+To increase the sales team's performance during a Cross Sell campaign, a **Classification** Machine Learning model was developed to generate a purchase propensity score and classify a base of 127 thousand customers. The trained model generated an extra revenue of $25,000,000.00. 
+
+[Read More](https://github.com/vitorhmf/cross-sell)
+
+### Sales Prediction
+Development of a Machine Learning algorithm to predict sales 6 weeks in advance in a pharmacy chain in Europe. The trained **Regression** algorithm has 88% MAPE and was made available for queries through a Telegram bot. 
+
+[Read More](https://github.com/vitorhmf/sales-predict)
+
+### Real State Opportunities
+In order to maximize the company's return on investment, this **Data Analysis** project was developed using Python to identify opportunities for homes below the average market price and define when and at what price to resell these properties. 
+
+[Read More](https://github.com/vitorhmf/sales-insights)
+
+### Sales Dashboard
+Development of a **Dashboard in Power BI** to visualize the evolution of 4 KPI's: Revenue, Sales Quantity, Average Ticket and Positivation. The results are detailed in the project by time period, by product and by collaborator. 
+
+[Read More](https://app.powerbi.com/view?r=eyJrIjoiN2VjZDUyY2YtNDcxYy00MTljLWI1ZjAtZTJlOWQ4ZGFmNDNmIiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9&pageName=ReportSectiona5a2606ecaf70f7e89c8)
 
 <!--
 
