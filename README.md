@@ -22,7 +22,9 @@ My professional goal is to make a career change to the Data Science area. Combin
 ## Data Science Projects 📈
 
 ### Insiders Loyalty Program (under development):
-To deploy a new loyalty program called Insiders, an unsupervised machine learning model of **Clustering** was developed, grouping the customer base according to their similarities. 
+<!--<img src="loyalty_program.png" align="left" width="400"> -->
+
+To deploy a new loyalty program called Insiders, an unsupervised machine learning model of **Clustering** was developed,                                               grouping the customer base according to their similarities. 
 
 [Read More](https://github.com/vitorhmf/loyalty-program)
 
