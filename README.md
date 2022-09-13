@@ -6,9 +6,9 @@ On this Github I present projects developed from public data, with resolutions o
 
 ## About me 🚀
 
-I have 14 years of professional experience in business management and commercial management. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
+I have 15 years of professional experience in business management and commercial management. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
 
-Currently, I am the owner of Metapro, a Consulting and Trade Representative company. In parallel, I develop personal projects as a Data Scientist, to gain experience in solving business problems and mastery of data analysis tools.
+Currently, I am the owner of Metapro, a Consulting and Sales Representative company. In parallel, I develop personal projects as a Data Scientist and Analytics, to gain experience in solving business problems and mastery of data analysis tools.
 
 My professional goal is to make a career change to the Data Science area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
 
@@ -21,7 +21,7 @@ My professional goal is to make a career change to the Data Science area. Combin
 
 ## Data Science Projects 📈
 
-### Insiders Loyalty Program (under development):
+### Insiders Loyalty Program:
 <!--<img src="loyalty_program.png" align="left" width="400"> -->
 
 To deploy a new loyalty program called Insiders, an unsupervised machine learning model of **Clustering** was developed,                                               grouping the customer base according to their similarities. 
@@ -37,6 +37,18 @@ To increase the sales team's performance during a Cross Sell campaign, a **Class
 Development of a Machine Learning algorithm to predict sales 6 weeks in advance in a pharmacy chain in Europe. The trained **Regression** algorithm has 88% MAPE and was made available for queries through a Telegram bot. 
 
 [Read More](https://github.com/vitorhmf/sales-predict)
+
+## Data Analytics Projects 📊
+
+### Market Research With Web Scraping (Under Development)
+A company wants to enter the American men's clothing market and for that, it needs market research of the main competitors in the segment. The project will be developed through web scraping with python.
+
+[Read More](https://github.com/vitorhmf/market-research)
+
+### Google Data Analytics Capstone
+In this final project of the certification in Data Analytics from Google, the analysis of data from the Cyclistic company was carried out in order to generate insights to increase the conversion rate from casual customers to annual subscribers. 
+
+[Read More](https://github.com/vitorhmf/customer-insights)
 
 ### Real State Opportunities
 In order to maximize the company's return on investment, this **Data Analysis** project was developed using Python to identify opportunities for homes below the average market price and define when and at what price to resell these properties. 
