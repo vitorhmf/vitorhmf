@@ -6,11 +6,20 @@ On this Github I present projects developed from public data, with resolutions o
 
 ## About me 🚀
 
-I have 15 years of professional experience in business management and commercial management. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
+4+ yrs of experience in the data field: began as a Data Analyst at my own firm in 2019, and currently leading data projects at Dadosfera since 2022. Expertise in data management and problem-solving.
 
-Currently, I am the owner of Metapro, a Consulting and Sales Representative company. In parallel, I develop personal projects as a Data Scientist and Analytics, to gain experience in solving business problems and mastery of data analysis tools.
+📊 Currently serving in the Professional Services division of a data startup, developing projects related to data analysis, data engineering, and data science.
 
-My professional goal is to make a career change to the Data Science area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
+🚀  Served as a Data Analyst and Commercial Consultant in my own consulting and sales representation company from July 2019 to March 2022. Achieved a 362% growth in sales revenue from 2019 to 2020.
+
+🎯 Extensive experience in people management, communication, and developing solutions for corporate problems.
+
+💻 Data Science & Analytics Skills:
+   - Programming Languages and Database: Python, SQL, SQLite, Postgres, MySQL.
+   - Machine Learning: Regression, Classification and Clustering Algorithms.
+   - Software Engineering: AWS, Git, Github, Virtual Environment.
+   - Data Viz: Power BI, Tableau, Metabase, Streamlit, Matplotlib, Seaborn
+   - Soft Skills: Assertiveness, Flexibility, Problem-solving, Teamwork
 
  <a href="https://www.linkedin.com/in/vitorhmf">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
