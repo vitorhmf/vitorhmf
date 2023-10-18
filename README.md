@@ -10,7 +10,7 @@ On this Github I present projects developed from public data, with resolutions o
 
 📊 Currently serving in the Professional Services division of a data startup, developing projects related to data analysis, data engineering, and data science.
 
-🚀  Served as a Data Analyst and Commercial Consultant in my own consulting and sales representation company from July 2019 to March 2022. Achieved a 362% growth in sales revenue from 2019 to 2020.
+🚀  Served as a Data Analyst and Commercial Consultant in my own consulting and sales representation company from July 2019 to March 2022. Achieved a 262% growth in sales revenue from 2019 to 2020.
 
 🎯 Extensive experience in people management, communication, and developing solutions for corporate problems.
 
