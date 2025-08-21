@@ -1,12 +1,6 @@
-## Hi there 👋
-
-Hi, my name is Vitor Ferreira.
-
-On this Github I present projects developed from public data, with resolutions of business problems using Data Science concepts and tools. 
-
 ## About me 🚀
 
-4+ yrs of experience in the data field: began as a Data Analyst at my own firm in 2019, and currently leading data projects at Dadosfera since 2022. Expertise in data management and problem-solving.
+5+ yrs of experience in the data field: began as a Data Analyst at my own firm in 2019, and currently leading data projects at Dadosfera since 2022. Expertise in data management and problem-solving.
 
 📊 Currently serving in the Professional Services division of a data startup, developing projects related to data analysis, data engineering, and data science.
 
